@@ -1,0 +1,19 @@
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Local\ Podfile.lock
+ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+.idea/
+*.iml
+*.lock
+pubspec.lock
